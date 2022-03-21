@@ -1,0 +1,16 @@
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\bin\Debug\net5.0\MediaLibrarySearch.exe
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\bin\Debug\net5.0\MediaLibrarySearch.deps.json
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\bin\Debug\net5.0\MediaLibrarySearch.runtimeconfig.json
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\bin\Debug\net5.0\MediaLibrarySearch.runtimeconfig.dev.json
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\bin\Debug\net5.0\MediaLibrarySearch.dll
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\bin\Debug\net5.0\ref\MediaLibrarySearch.dll
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\bin\Debug\net5.0\MediaLibrarySearch.pdb
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\obj\Debug\net5.0\MediaLibrarySearch.csproj.AssemblyReference.cache
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\obj\Debug\net5.0\MediaLibrarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\obj\Debug\net5.0\MediaLibrarySearch.AssemblyInfoInputs.cache
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\obj\Debug\net5.0\MediaLibrarySearch.AssemblyInfo.cs
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\obj\Debug\net5.0\MediaLibrarySearch.csproj.CoreCompileInputs.cache
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\obj\Debug\net5.0\MediaLibrarySearch.dll
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\obj\Debug\net5.0\ref\MediaLibrarySearch.dll
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\obj\Debug\net5.0\MediaLibrarySearch.pdb
+C:\Users\belge\OneDrive\Documents\.Net Database Programming\MediaLibrarySearch\obj\Debug\net5.0\MediaLibrarySearch.genruntimeconfig.cache
