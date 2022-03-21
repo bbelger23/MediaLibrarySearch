@@ -1,0 +1,16 @@
+2022-03-21 13:39:05.2560|INFO|MediaLibrarySearch.Program|Program started
+2022-03-21 13:39:05.3611|INFO|MediaLibrarySearch.MovieFile|Movies in file 9125
+2022-03-21 13:39:06.9960|INFO|MediaLibrarySearch.Program|User choice: "3"
+2022-03-21 13:43:23.6355|INFO|MediaLibrarySearch.Program|User choice: ""
+2022-03-21 13:43:23.6446|INFO|MediaLibrarySearch.Program|Program ended
+2022-03-21 13:43:39.1428|INFO|MediaLibrarySearch.Program|Program started
+2022-03-21 13:43:39.2317|INFO|MediaLibrarySearch.MovieFile|Movies in file 9125
+2022-03-21 13:43:40.2188|INFO|MediaLibrarySearch.Program|User choice: "3"
+2022-03-21 13:43:47.3561|INFO|MediaLibrarySearch.Program|User choice: ""
+2022-03-21 13:43:47.3561|INFO|MediaLibrarySearch.Program|Program ended
+2022-03-21 13:43:54.8805|INFO|MediaLibrarySearch.Program|Program started
+2022-03-21 13:43:54.9818|INFO|MediaLibrarySearch.MovieFile|Movies in file 9125
+2022-03-21 13:43:56.4385|INFO|MediaLibrarySearch.Program|User choice: "3"
+2022-03-21 13:44:15.3191|INFO|MediaLibrarySearch.Program|User choice: "3"
+2022-03-21 13:44:22.8586|INFO|MediaLibrarySearch.Program|User choice: ""
+2022-03-21 13:44:22.8586|INFO|MediaLibrarySearch.Program|Program ended

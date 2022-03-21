@@ -1,6 +1,7 @@
 ﻿using System;
 using NLog.Web;
 using System.IO;
+using System.Linq;
 
 namespace MediaLibrarySearch
 {
@@ -21,6 +22,7 @@ namespace MediaLibrarySearch
             MovieFile movieFile = new MovieFile(movieFilePath);
 
             string choice = "";
+            string find = "";
             do
             {
                 // display choices to user
@@ -85,7 +87,26 @@ namespace MediaLibrarySearch
 
                 if (choice == "3")
                 {
+                    // ask user what part of movie they want to search
+                    Console.WriteLine("Enter part of movie you want found");
+                    find = Console.ReadLine();
+
+                    // change color to see results
+                    Console.ForegroundColor = ConsoleColor.Green;
+
+                    // find number of movies based off user input
+                    var movieFound = movieFile.Movies.Where(m => m.title.Contains(find));
                     
+                    // display each movie found
+                    foreach(Movie m in movieFound)
+                    {
+                        Console.WriteLine($"  {m.title}");
+                    }
+                    // display number of movies based off user input
+                    Console.WriteLine($"There are {movieFound.Count()} movies found");
+
+                    Console.ForegroundColor = ConsoleColor.White;
+
                 }
             } while (choice == "1" || choice == "2" || choice == "3");
 
